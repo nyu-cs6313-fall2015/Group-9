@@ -132,7 +132,7 @@ var trace10_1 = {
     var layout1 = {
   xaxis: {
     showticklabels: false,
-    title:'month & review count'
+    title:'month in yelp & review count'
   },
   boxpoints: false
 };
