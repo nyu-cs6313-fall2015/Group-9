@@ -13,7 +13,7 @@ Reviews in Yelp play important role in making purchase decisions and help people
 <h3>The Data</h3>
 
 All the data is provided by Yelp in terms of json file format. It includs business, checkin, review, user, tip datasets. We use database to get 12 features of each user and put them into a csv file for further processing.</br>
-[Data link]()
+[Data link](https://github.com/nyu-cs6313-fall2015/Group-9/blob/master/sample1.csv)
 
 
 <h3>Live Demo</h3>
