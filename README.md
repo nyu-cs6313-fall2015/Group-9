@@ -1,7 +1,7 @@
-# Group-9-Outlier Detection of User behavior on Yelp Data
+# Group-9:Outlier Detection of User behavior on Yelp Data
 <h3>Authors</h3>
-Jie Dong
-Enze Wu
+Jie Dong</br>
+Enze Wu</br>
 Lei Sun
 
 <h3>Description</h3>
