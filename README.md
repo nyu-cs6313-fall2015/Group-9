@@ -21,7 +21,7 @@ All the data is provided by Yelp in terms of json file format. It includs busine
 
 
 <h3>Final Proposal</h3>
-
+[Link to Final Proposal](https://github.com/nyu-cs6313-fall2015/Group-9/blob/master/report/Outlier%20Detection%20of%20User%20behavior%20on%20Yelp%20Data.pdf)
 
 <h3>Video</h3>
 [Link to video](https://vimeo.com/149665108)
