@@ -17,7 +17,7 @@ All the data is provided by Yelp in terms of json file format. It includs busine
 
 
 <h3>Live Demo</h3>
-[Link to our application](http://www.unexpectedname.com/interface/)
+[Link to our application](http://nyu-cs6313-fall2015.github.io/Group-9/index)
 
 
 <h3>Final Proposal</h3>
