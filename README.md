@@ -24,4 +24,5 @@ All the data is provided by Yelp in terms of json file format. It includs busine
 
 
 <h3>Video</h3>
+[Link to video](https://vimeo.com/149665108)
 
